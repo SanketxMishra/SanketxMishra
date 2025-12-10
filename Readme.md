@@ -34,11 +34,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=SanketxMishra&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanketxMishra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api?username=SanketxMishra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=SanketxMishra&theme=dark&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SanketxMishra)](https://git.io/streak-stats)
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
