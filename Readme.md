@@ -31,7 +31,7 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SanketxMishra&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SanketxMishra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=SanketxMishra)](https://git.io/streak-stats)
