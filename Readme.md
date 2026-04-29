@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sanketmishra.real@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1ckDaVqTMweDQ5XjQ3voLwKzohz0kDDD1/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1vUSslb2h591g9gv6SeymoWIsUkWaPJMe/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
